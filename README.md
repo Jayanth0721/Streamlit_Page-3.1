@@ -7,7 +7,8 @@ pip install pythoncom,
 pip install PyPDF2,
 pip install docx,
 pip install comtypes,
-pip install pydub.
+pip install pydub,
+pip install pywin32.
 
 To Run:-
 1.open cmd
